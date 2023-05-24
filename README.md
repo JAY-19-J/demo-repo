@@ -1,3 +1,3 @@
 Demo
 
-Something added
+Something added!
